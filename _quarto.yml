@@ -25,17 +25,15 @@ website:
         text: Home
       - href: syllabus.qmd
         text: Syllabus
-      - href: schedule.qmd
-        text: Schedule
-        
-  
+      - href: material.qmd
+        text: Material
         
 format:
   html:
     theme: 
       - default
-      - theme.scss
-    css: custom.css
+      - css/theme.scss
+    css: css/custom.css
     toc: true
 
 

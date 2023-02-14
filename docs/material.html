@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The Politics of Climate Change - Course Website</title>
+<title>The Politics of Climate Change - Course Website - Material</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -29,6 +29,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -57,7 +59,37 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-material .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-material'] = new List('listing-material', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="css/custom.css">
 </head>
@@ -68,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">The Politics of Climate Change - Course Website</h1>
+      <h1 class="quarto-secondary-nav-title">Material</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -97,7 +129,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">Home</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">Home</a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -107,7 +139,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./material.html" class="sidebar-item-text sidebar-link">Material</a>
+  <a href="./material.html" class="sidebar-item-text sidebar-link active">Material</a>
   </div>
 </li>
     </ul>
@@ -119,9 +151,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#course-overview" id="toc-course-overview" class="nav-link active" data-scroll-target="#course-overview">Course overview</a></li>
-  <li><a href="#seminar-meetings" id="toc-seminar-meetings" class="nav-link" data-scroll-target="#seminar-meetings">Seminar meetings</a></li>
-  <li><a href="#teaching" id="toc-teaching" class="nav-link" data-scroll-target="#teaching">Teaching</a></li>
+  <li><a href="#weekly-schedule" id="toc-weekly-schedule" class="nav-link active" data-scroll-target="#weekly-schedule">Weekly schedule</a></li>
+  <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a>
+  <ul class="collapse">
+  <li><a href="#homework" id="toc-homework" class="nav-link" data-scroll-target="#homework">Homework</a></li>
+  <li><a href="#labs" id="toc-labs" class="nav-link" data-scroll-target="#labs">Labs</a></li>
+  <li><a href="#exams" id="toc-exams" class="nav-link" data-scroll-target="#exams">Exams</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -130,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">The Politics of Climate Change - Course Website</h1>
+<h1 class="title d-none d-lg-block">Material</h1>
 </div>
 
 
@@ -145,51 +181,66 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="course-overview" class="level2">
-<h2 class="anchored" data-anchor-id="course-overview">Course overview</h2>
-<p><strong>The Politics of Climate Change</strong></p>
-<p>Climate change is one of this century’s most significant challenges. Climate change mitigation and adaptation will require massive economic transformations and strongly affect other fields: infrastructure, health, agriculture, biodiversity, migration, and many more. How do political actors – parties, politicians, social movements, institutions, international organizations, etc. – react to and influence these transformations? And what about public opinion? Do citizens change their behavior (voting, consumption, etc.)? If yes, why and under what conditions?</p>
-<p>This course introduces students to theories and methods on the nexus of climate change and politics. It aims to equip the students with the necessary skills to formulate and pursue their own research questions at the intersection of climate change and politics. In addition, students will learn to engage critically with existing research and understand its implications. In doing so, the course will primarily focus on (quantitative) empirical research addressing party competition, political behavior, and policymaking.</p>
-</section>
-<section id="seminar-meetings" class="level2">
-<h2 class="anchored" data-anchor-id="seminar-meetings">Seminar meetings</h2>
-<table class="table">
+<section id="weekly-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="weekly-schedule">Weekly schedule</h2>
+<div id="listing-material" class="quarto-listing quarto-listing-container-table">
+
+<table class="quarto-listing-table table">
 <thead>
-<tr class="header">
-<th>Meeting</th>
-<th>Location</th>
-<th>Time</th>
+<tr>
+<th>
+Week
+</th>
+<th>
+Dates
+</th>
+<th>
+Topic
+</th>
 </tr>
 </thead>
-<tbody>
-<tr class="odd">
-<td>Seminar</td>
-<td>A 103</td>
-<td>Tue 15:30 – 17:00</td>
+<tbody class="list">
+<tr data-index="0" data-listing-file-modified-sort="1676347803836" data-listing-reading-time-sort="0.08" data-listing-title-sort="Week 01" data-listing-filename-sort="week-01.qmd">
+<td class="listing-title">
+<a href="./weeks/week-01.html" class="title">Week 01</a>
+</td>
+<td class="listing-description">
+Feb 14
+</td>
+<td class="listing-subtitle">
+Intro Session
+</td>
 </tr>
 </tbody>
+
 </table>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
 </section>
-<section id="teaching" class="level2">
-<h2 class="anchored" data-anchor-id="teaching">Teaching</h2>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Name</th>
-<th>Office hours</th>
-<th>Location</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>David Schweizer</td>
-<td>Tue 10:15 – 11:45</td>
-<td>A 340</td>
-</tr>
-</tbody>
-</table>
+<section id="assignments" class="level2">
+<h2 class="anchored" data-anchor-id="assignments">Assignments</h2>
+<p>Below are assignment due dates for the semester. You can find details and assignment instructions in the relevant week on the schedule.</p>
+<section id="homework" class="level3">
+<h3 class="anchored" data-anchor-id="homework">Homework</h3>
+<p>Homework will be due on Wednesdays at 11:59pm. You will have one week to complete each homework assignment.</p>
+</section>
+<section id="labs" class="level3">
+<h3 class="anchored" data-anchor-id="labs">Labs</h3>
+<p>Labs will be due on Fridays at 11:59pm. You will start the lab during your scheduled lab section.</p>
+</section>
+<section id="exams" class="level3">
+<h3 class="anchored" data-anchor-id="exams">Exams</h3>
+<p>There will be two exams on the dates:</p>
+<ul>
+<li><p>October 12, 9am - October 14, 11:59pm</p></li>
+<li><p>November 16, 9am - November 16: 11:59pm</p></li>
+</ul>
 
 
+
+</section>
 </section>
 
 </main> <!-- /main -->

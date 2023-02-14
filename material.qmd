@@ -1,7 +1,7 @@
 ---
-title: "Schedule"
+title: "Material"
 listing:
-  - id: schedule
+  - id: material
     contents:
       - weeks/week-*.qmd
     type: table
@@ -20,7 +20,7 @@ editor: visual
 
 ## Weekly schedule
 
-::: {#schedule}
+::: {#material}
 :::
 
 ## Assignments
