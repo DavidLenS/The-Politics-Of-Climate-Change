@@ -40,5 +40,68 @@
     "title": "Syllabus",
     "section": "",
     "text": "Here is the syllabus."
+  },
+  {
+    "objectID": "weeks/week-01.html",
+    "href": "weeks/week-01.html",
+    "title": "Week 01",
+    "section": "",
+    "text": "Lectures\n\n\n\n\n\n\nTopic\n\n\nDate\n\n\n\n\n\n\nWelcome to Intro Data Science\n\n\nMon, Aug 29\n\n\n\n\n\n\nNo matching items\n\n\n\n\nAssignments\nThere are no assignments scheduled this week.\n\n\nReadings\nThere are no mandatory readings this week."
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#bullet-point-list",
+    "href": "slides/week-01/01-example.html#bullet-point-list",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Bullet point list",
+    "text": "Bullet point list\nUnordered\n\nItem A\nItem B\nItem C\n\nOrdered\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#incremental-list",
+    "href": "slides/week-01/01-example.html#incremental-list",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Incremental list",
+    "text": "Incremental list\n\n\nItem 1\nItem 2\nItem 3"
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#equations",
+    "href": "slides/week-01/01-example.html#equations",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Equations",
+    "text": "Equations\nWrite mathematical symbols and equations using Latex.\nUse the formulas below to calculate \\(\\hat{\\beta}_1\\), the estimated slope, and \\(\\hat{\\beta}_0\\), the estimated intercept.\n\\[\n\\begin{aligned}\n&\\hat{\\beta}_1 = r \\frac{s_y}{s_x} \\\\\n&\\hat{\\beta}_0 = \\bar{y} - \\hat{\\beta}_1 \\bar{x}\n\\end{aligned}\n\\]"
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#code",
+    "href": "slides/week-01/01-example.html#code",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Code",
+    "text": "Code\n\n# Use code chunk option fig-align: center to center the plot. \nggplot(data = penguins, aes(x = flipper_length_mm, y = body_mass_g, \n                            color = species)) + \n         geom_point() + \n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d()"
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#images",
+    "href": "slides/week-01/01-example.html#images",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Images",
+    "text": "Images\n\nArtwork by @allison_horst"
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#columns",
+    "href": "slides/week-01/01-example.html#columns",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Columns",
+    "text": "Columns\n\n\nCalculate the proportion of penguins from each species.\n\n\npenguins |>\n  count(species) |>\n  mutate(prop  = n / sum(n))\n\n# A tibble: 3 × 3\n  species       n  prop\n  <fct>     <int> <dbl>\n1 Adelie      152 0.442\n2 Chinstrap    68 0.198\n3 Gentoo      124 0.360"
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#panels",
+    "href": "slides/week-01/01-example.html#panels",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Panels",
+    "text": "Panels\n\nPlotCode\n\n\n\npenguins |>\n  filter(species == \"Adelie\", !is.na(sex)) |>\n  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + \n  geom_point() +\n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Adelie Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d() + \n  facet_wrap(~island)\n\n\n\n\n\n\n\npenguins |>\n  filter(species == \"Adelie\", !is.na(sex)) |>\n  ggplot(aes(x = flipper_length_mm, y = body_mass_g, color = sex)) + \n  geom_point() +\n  labs(x = \"Flipper Length (in mm)\",y = \"Body Mass (in g)\",\n       title = \"Flipper length vs. body mass\",\n       subtitle = \"Adelie Penguins at Palmer Station, Antartica\") +\n  scale_color_viridis_d() + \n  facet_wrap(~island)"
+  },
+  {
+    "objectID": "slides/week-01/01-example.html#themes",
+    "href": "slides/week-01/01-example.html#themes",
+    "title": "Welcome to Politics of Climate Change",
+    "section": "Themes",
+    "text": "Themes\nCustomize the appearance of the slides using\n\nBuilt-in Reveal theme\nModify built-in theme using Sass\n\nVariant of CSS that supports variables and other features\n\nCreate custom thing using Sass\n\nSpecify the theme and/or Sass file (.scss) in the YAML\n\n\n\n🔗 rstudio-conf-2022.github.io/teach-ds-course-website"
   }
 ]
