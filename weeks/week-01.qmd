@@ -1,16 +1,16 @@
 ---
 title: "Week 01"
 subtitle: "Intro Session"
-description: "Feb 14"
+description: ""
 author: ""
-date: ""
+date: "Feb 14, 2023"
 listing:
   - id: slides
     contents:
       - ../slides/week-01/*.qmd
     type: table
     fields: [title, date]
-    date-format: "ddd, MMM DD"
+    #date-format: "ddd, MMM DD"
     field-display-names:
       title: "Topic"
       date: "Date"
