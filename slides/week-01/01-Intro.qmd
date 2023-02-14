@@ -2,7 +2,7 @@
 title: "The Politics of Climate Change"
 subtitle: "Week 1: Intro Session"
 author: "David Schweizer"
-date: last-modified
+date: "February 14, 2023"
 date-format: long
 institute: "University of Mannheim"
 format: 

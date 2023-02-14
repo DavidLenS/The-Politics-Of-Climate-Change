@@ -2,7 +2,7 @@
 title: "The Politics of Climate Change"
 subtitle: "Week2: The Science of Climate Change & Impacts"
 author: "David Schweizer"
-date: last-modified
+date: "February 21, 2023"
 date-format: long
 institute: "University of Mannheim"
 format: 

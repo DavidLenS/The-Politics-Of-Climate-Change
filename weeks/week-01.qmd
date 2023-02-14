@@ -12,7 +12,7 @@ listing:
     fields: [title, date]
     #date-format: "ddd, MMM DD"
     field-display-names:
-      title: "Topic"
+      subtitle: "Topic"
       date: "Date"
     sort: [filename]
     sort-ui: false
