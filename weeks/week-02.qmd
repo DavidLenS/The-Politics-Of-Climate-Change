@@ -1,6 +1,6 @@
 ---
-title: "Week 02"
-subtitle: "The Science of Climate Change & Impacts"
+title: "The Science of Climate Change & Impacts"
+subtitle: "Week 02"
 description: ""
 author: ""
 date: "Feb 21, 2023"
@@ -9,10 +9,11 @@ listing:
     contents:
       - ../slides/week-02/*.qmd
     type: table
-    fields: [title, date]
+    fields: [title, subtitle, date]
     #date-format: "ddd, MMM DD"
     field-display-names:
-      subtitle: "Topic"
+      title: "Topic"
+      subtitle: "Session"
       date: "Date"
     sort: [filename]
     sort-ui: false

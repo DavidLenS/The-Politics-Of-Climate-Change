@@ -20,6 +20,9 @@ website:
       - icon: bank
         href: https://ilias.uni-mannheim.de/goto.php?target=crs_1333381&client_id=ILIAS
         text: Ilias
+      - icon: book
+        href: https://www.perusall.com/
+        text: Perusall
     style: docked
     contents:
       - href: index.qmd

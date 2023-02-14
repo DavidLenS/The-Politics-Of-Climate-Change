@@ -1,20 +1,15 @@
 ---
-title: "The Politics of Climate Change"
-subtitle: "Week 1: Intro Session"
+title: "Introductory Session"
+subtitle: "Week 1"
 author: "David Schweizer"
 date: "February 14, 2023"
 date-format: long
 institute: "University of Mannheim"
 format: 
   revealjs:
+    theme: serif
     slide-number: c/t #< collapsed/total
-    #logo: Logo_UMA_EN_RGB.png
-    css: panel.css
-    theme: default
-    title-slide-attributes:
-      data-background-image: /EUROPE-Germany-Nordrhein_Westfalen-1881-2021-DW.png
-      data-background-size: contain
-      data-background-opacity: "0.3"
+    footer: "The Politics of Climate Change | Spring 2023 | University of Mannheim"
 editor: visual
 ---
 
@@ -31,17 +26,16 @@ editor: visual
 
 # Introduction round
 
--   I'll go first. A few words about me.
+-   I'll go first. A few words about me
 
--   You're next. Groups of 2.
+-   You're next. Groups of 2-3
 
     -   Introduce yourselves to your classmates
     -   Name, background, what do you study, interests, personal interests and hobbies, ...
 
 -   Plenum
 
-    -   In a few sentences, present yourself to the plenum.
-    -   And: tell the plenum one thing about the person you just met.
+    -   In a few sentences, present yourself to the plenum and tell also one thing about the persons you just met
 
 # About me
 

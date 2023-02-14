@@ -1,16 +1,16 @@
 ---
-title: "Syllabus"
+title: "The Politics of Climate Change"
 editor: 
   markdown: 
     wrap: 72
 ---
 
-# **The Politics of Climate Change**
+## Syllabus
 
 Spring 2023
 
 |                 |                                                                                                         |
-|------------------|------------------------------------------------------|
+|-------------------|-----------------------------------------------------|
 | Proseminar:     | PS Einführung in die Vergleichende Regierungslehre                                                      |
 | Time:           | Tuesday, 15:30 -- 17:00, February 14 to May 30, Cancelled dates: April 04, April 11                     |
 | Place:          | A 103 Seminarraum (B 6, 23-25 Bauteil A)                                                                |
