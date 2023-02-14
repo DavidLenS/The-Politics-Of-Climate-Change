@@ -1,5 +1,254 @@
 ---
 title: "Syllabus"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-Here is the syllabus.
+# **The Politics of Climate Change** 
+
+Spring 2023
+
+## **Course description**
+
+**\
+**Climate change is one of this century's most significant challenges.
+Climate change mitigation and adaptation will require massive economic
+transformations and strongly affect other fields: infrastructure,
+health, agriculture, biodiversity, migration, and many more. How do
+political actors -- parties, politicians, social movements,
+institutions, international organizations, etc. -- react to and
+influence these transformations? And what about public opinion? Do
+citizens change their behavior (voting, consumption, etc.)? If yes, why
+and under what conditions? This course introduces students to theories
+and methods on the nexus of climate change and politics. It aims to
+equip the students with the necessary skills to formulate and pursue
+their own research questions at the intersection of climate change and
+politics. In addition, students will learn to engage critically with
+existing research and understand its implications. In doing so, the
+course will primarily focus on (quantitative) empirical research
+addressing party competition, political behavior, and policymaking.
+
+## **Seminar Goals:** 
+
+-   Introducing concepts, definitions, and measurements in the field of
+    climate change in political science research
+
+-   Getting to know the recent literature and being able to critically
+    engage with it
+
+-   Being able to interpret the results of the analyses applied in the
+    literature
+
+-   Being able to present the core results and main take-aways of
+    research articles - Identifying research questions and research
+    designs at the intersection of climate change and politics
+
+-   Formulating own research questions and conducting own research
+
+## Course Requirements 
+
+**Participation:**
+
+Attending the weekly sessions and reading assigned articles (mandatory)
+before class. Use Perusall to annotate articles collaboratively and
+exchange via Slack. (Of course, there is still also the discussion forum
+on ILIAS to post questions or discuss with your peers if you are stuck.)
+You are encouraged to also have a look at the further readings.
+
+**Discussion questions for mandatory readings (Pass/Fail):**
+
+Each week, students should submit a discussion question for at least one
+mandatory reading (via Perusall or ILIAS) at the latest on the day of
+the seminar until 12:00 (noon). This can just be one sentence. E.g., a
+comment that points something you liked about the paper and/or something
+that you would have done differently. You can also relate your
+discussion question to current events.
+
+**Presentation of one paper (Pass/Fail):**
+
+There will be short group presentations (max. 12 minutes, 3-4 people
+depending on the seminar size, support presentation with slides) of
+selected research articles beginning after the Easter break. You should
+be able to convey the main take-aways and core results of empirical
+research. But more on this during the semester!
+
+**Submission of a research proposal (Optional):**
+
+You have the possibility to write a research proposal developing your
+research question for your final term paper during the semester. It a)
+gives the motivation for your research question and, b) presents a short
+(preliminary) overview of related literature, which can already lead to
+hypotheses. Your term paper can be based on your proposal but does not
+have to. Length: 700 -- 800 words (excluding references, +/- 10% , 12pt
+font - Times New Roman or Calibri, and 1.5 line spacing), it can be
+written in English or German. The proposal should be submitted as PDF
+via ILIAS. Deadline: April 18, 2023, 20:00. You will get detailed
+feedback from me. Furthermore, by opting in for the research proposal
+you agree to give feedback on two proposals of your peers.
+
+**Term paper (100% of your grade):**
+
+You will write a short term paper on the topics discussed in the
+seminar. You should a) identify a research question on your own, b)
+develop a theory (causal mechanism) and hypotheses, c) describe data and
+method used to answer your research question, and d) the paper should
+include a (preliminary/basic) empirical analysis (descriptives,
+correlations, basic regressions. If you want, you can also include ideas
+for more advanced analyses. Especially, if you choose not to write a
+research proposal, I recommend you to come to my office hours to discuss
+your topic. We will discuss in more detail on how to write a "good" term
+paper during the semester. The paper has to be submitted as PDF via
+ILIAS. The length should be around 3500 words (excluding references, +/-
+10% , 12pt font - Times New Roman or Calibri, and 1.5 line spacing), can
+be written in English or German. Late submissions will result in
+deductions of 1/3 of a grade point per day. In case of any questions or
+problems, please get in touch with me early. More on this to come during
+the semester. Deadline: July 4, 2023, 20:00.
+
+## (Recommended) Readings 
+
+Helpful background readings for this seminar include the following
+articles:
+
+-   Bernauer, T. (2013). Climate change politics. Annual review of
+    political science, 16, 421-448.
+
+-   Cao, X., Milner, H. V., Prakash, A., & Ward, H. (2014). Research
+    frontiers in comparative and international environmental politics:
+    an introduction. Comparative Political Studies, 47(3), 291-308.
+
+-   Howe, P. D., Marlon, J. R., Mildenberger, M., & Shield, B. S.
+    (2019). How will climate change shape climate opinion?.
+    Environmental Research Letters, 14(11).
+
+Furthermore, there are mandatory readings for each session. They convey
+the session's the take-away message. Therefore, you should read these
+texts carefully. We will use Perusall as a tool for collaborative
+reading. You will find the mandatory readings on ILIAS However, they
+(mostly) should be accessible via the university library
+(Katalog-Primo).
+
+## Organization & Learning Resources 
+
+**Course website, Slack, and ILIAS:**
+
+The plan is to use primarily the course website and Slack for providing
+the structure of the seminar and communication, respectively.
+Nevertheless, you will find the information on ILIAS as well. Make sure
+to regularly check your university e-mail address.
+
+-   You can find the course website here:
+    https://politics-of-climate-change.netlify.app
+
+-   The ILIAS seminar name is: PS Einführung in die Vergleichende
+    Regierungslehre: The Politics of Climate Change \[PS\] \[1. PG\]
+    (FSS 2023). Ensure that you have access to the system and that
+    e-mails sent over ILIAS are forwarded to the e-mail account you
+    check regularly.
+
+-   If you have contacted me with a question via any channel and you did
+    not hear back after 2 days (except over the weekend), please just
+    send me your question again!
+
+**Office hours:**
+
+In-person (A 340) or via Zoom, Tue, 10:15 -- 11:45, please make an
+appointment by e-mail. - If you have a specific question or problem
+(e.g., finding a research question), please tell me before coming to the
+office hours (when making the appointment). This way , I can also
+prepare for it making it more productive and constructive.
+
+**Covid-19 (and general illness):**
+
+If you feel ill or have symptoms, please be considerate of your fellow
+students and yourself(!). Just let me know by e-mail.
+
+**Students with disabilities or chronic illnesses:**
+
+Please contact me or the Office of Student Affairs if you need special
+assistance due to disabilities or chronic illnesses.
+
+And please do this early in the semester so that we can make the
+appropriate arrangements immediately. If you need support:
+
+Of course, you can always talk directly to me if you feel comfortable
+with the question. It is important to note that the University's
+Equality and Diversity Office supports and advises you in cases of
+discrimination or sexual harassment. The responsible contact person in
+such a case is Dipl.-Psych. Ute Pfründer. She is trained to deal with
+such incidents and will keep everything strictly confidential. No action
+will be taken without your express consent. Further counseling services
+offered by the university can be found via this link.
+
+## Course Schedule and Reading Material 
+
+The reading list will be updated from time to time. Keep an eye on
+announcements on Slack or ILIAS.
+
+### **BLOCK I: INTRO** 
+
+1.  **Intro Session (February 14)**
+    -   No mandatory reading
+
+    -   Seminar outline
+
+```{=html}
+<!-- -->
+```
+2.  **The Science of Climate Change & Impacts (February 21)**
+    -   Mandatory Readings:
+
+        -   Carleton, T. A., & Hsiang, S. M. (2016). Social and economic
+            impacts of climate. Science, 353(6304), aad9837.
+
+        -   Hsiang, S., & Kopp, R. E. (2018). An economist's guide to
+            climate change science. Journal of Economic Perspectives,
+            32(4), 3-32.
+
+    -   Further Readings:
+
+        -   Doherty, T. J., & Clayton, S. (2011). The psychological
+            impacts of global climate change. American Psychologist,
+            66(4), 265.
+
+        -   Hsiang, S. M., Burke, M., & Miguel, E. (2013). Quantifying
+            the influence of climate on human conflict. Science,
+            341(6151), 1235367.
+
+        -   IPCC (2022). Summary for policymakers.
+
+        -   IPCC (2022). Full report.
+
+        -   The En-ROADS Climate Solutions Simulator (2022)
+
+```{=html}
+<!-- -->
+```
+3.  **Climate Change as Collective Action Problem? (February 28)**
+    -   Mandatory Readings:
+
+        -   Aklin, M., & Mildenberger, M. (2020). Prisoners of the wrong
+            dilemma: why distributive conflict, not collective action,
+            characterizes the politics of climate change. Global
+            Environmental Politics, 20(4), 4-27.
+
+        -   Breetz, H., Mildenberger, M., & Stokes, L. (2018). The
+            political logics of clean energy transitions. Business and
+            Politics, 20(4), 492-522.
+
+    -   Further Readings:
+
+        -   Hardin, G. (1968). The tragedy of the commons: the
+            population problem has no technical solution; it requires a
+            fundamental extension in morality. Science, 162(3859),
+            1243-1248.
+
+        -   Mildenberger, M. (2019). The Tragedy of the Tragedy of the
+            Commons. Scientific American, 23. o Nordhaus, W. (2015).
+            Climate clubs: Overcoming free-riding in international
+            climate policy. American Economic Review, 105(4), 1339-1370.
+
+        -   Ostrom, E. (1990). Governing the commons: The evolution of
+            institutions for collective action. Cambridge University
+            Press.

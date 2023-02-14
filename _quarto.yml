@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "The Politics of Climate Change - Course Website"
   page-footer:

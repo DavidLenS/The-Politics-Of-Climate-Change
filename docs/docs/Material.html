@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="">
-<meta name="description" content="Feb 14">
 
-<title>The Politics of Climate Change - Course Website - Week 01</title>
+<title>The Politics of Climate Change - Course Website - Material</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -64,20 +62,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-slides .list');
+    const listingTargetEl = window.document.querySelector('#listing-material .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-description','listing-subtitle',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-slides'] = new List('listing-slides', options);
+    window['quarto-listings']['listing-material'] = new List('listing-material', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -102,7 +100,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Week 01</h1>
+      <h1 class="quarto-secondary-nav-title">Material</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -153,8 +151,13 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#seminar-slides" id="toc-seminar-slides" class="nav-link active" data-scroll-target="#seminar-slides">Seminar slides</a></li>
-  <li><a href="#readings" id="toc-readings" class="nav-link" data-scroll-target="#readings">Readings</a></li>
+  <li><a href="#weekly-schedule" id="toc-weekly-schedule" class="nav-link active" data-scroll-target="#weekly-schedule">Weekly schedule</a></li>
+  <li><a href="#assignments" id="toc-assignments" class="nav-link" data-scroll-target="#assignments">Assignments</a>
+  <ul class="collapse">
+  <li><a href="#homework" id="toc-homework" class="nav-link" data-scroll-target="#homework">Homework</a></li>
+  <li><a href="#labs" id="toc-labs" class="nav-link" data-scroll-target="#labs">Labs</a></li>
+  <li><a href="#exams" id="toc-exams" class="nav-link" data-scroll-target="#exams">Exams</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -163,15 +166,9 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Week 01</h1>
-<p class="subtitle lead">Intro Session</p>
+<h1 class="title d-none d-lg-block">Material</h1>
 </div>
 
-<div>
-  <div class="description">
-    Feb 14
-  </div>
-</div>
 
 
 <div class="quarto-title-meta">
@@ -184,30 +181,25 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="seminar-slides" class="level1">
-<h1>Seminar slides</h1>
-<div id="listing-slides" class="quarto-listing quarto-listing-container-table">
+<section id="weekly-schedule" class="level2">
+<h2 class="anchored" data-anchor-id="weekly-schedule">Weekly schedule</h2>
+<div id="listing-material" class="quarto-listing quarto-listing-container-table">
 
 <table class="quarto-listing-table table">
 <thead>
 <tr>
 <th>
-Topic
+Week
 </th>
 <th>
-Date
+Dates
+</th>
+<th>
+Topic
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-listing-date-sort="1661724000000" data-listing-file-modified-sort="1676366581550" data-listing-reading-time-sort="2.075" data-listing-title-sort="Welcome to Politics of Climate Change" data-listing-filename-sort="01-example.qmd">
-<td class="listing-title">
-<a href="../slides/week-01/01-example.html" class="title">Welcome to Politics of Climate Change</a>
-</td>
-<td class="listing-date">
-Mon, Aug 29
-</td>
-</tr>
 </tbody>
 
 </table>
@@ -216,12 +208,28 @@ No matching items
 </div>
 </div>
 </section>
-<section id="readings" class="level1">
-<h1>Readings</h1>
-<p>There are no mandatory readings this week.</p>
+<section id="assignments" class="level2">
+<h2 class="anchored" data-anchor-id="assignments">Assignments</h2>
+<p>Below are assignment due dates for the semester. You can find details and assignment instructions in the relevant week on the schedule.</p>
+<section id="homework" class="level3">
+<h3 class="anchored" data-anchor-id="homework">Homework</h3>
+<p>Homework will be due on Wednesdays at 11:59pm. You will have one week to complete each homework assignment.</p>
+</section>
+<section id="labs" class="level3">
+<h3 class="anchored" data-anchor-id="labs">Labs</h3>
+<p>Labs will be due on Fridays at 11:59pm. You will start the lab during your scheduled lab section.</p>
+</section>
+<section id="exams" class="level3">
+<h3 class="anchored" data-anchor-id="exams">Exams</h3>
+<p>There will be two exams on the dates:</p>
+<ul>
+<li><p>October 12, 9am - October 14, 11:59pm</p></li>
+<li><p>November 16, 9am - November 16: 11:59pm</p></li>
+</ul>
 
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
