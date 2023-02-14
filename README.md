@@ -1,7 +1,8 @@
-# Teach DS - Course Website
+# The Politics of Climate Change - Course Website
+## Spring 2023, University of Mannheim
 
-Template course website for the Designing a Data Science Classroom workshop at rstudio::conf(2022). 
+Base on the course website template from the Designing a Data Science Classroom workshop at rstudio::conf(2022) by Dr. Mine Çetinkaya-Rundel and Dr. Maria Tackett.
 
-Site published through gh-pages: https://rstudio-conf-2022.github.io/teach-ds-course-website/
+https://github.com/rstudio-conf-2022/teach-ds 
 
-Site published through Quarto Pub: https://maria.quarto.pub/teach-data-science-course-website/
+https://maria.quarto.pub/teach-data-science-course-website/
