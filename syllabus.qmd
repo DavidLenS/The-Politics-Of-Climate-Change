@@ -10,7 +10,7 @@ editor:
 Spring 2023
 
 |                 |                                                                                                         |
-|-------------------|-----------------------------------------------------|
+|---------------|---------------------------------------------------------|
 | Proseminar:     | PS Einführung in die Vergleichende Regierungslehre                                                      |
 | Time:           | Tuesday, 15:30 -- 17:00, February 14 to May 30, Cancelled dates: April 04, April 11                     |
 | Place:          | A 103 Seminarraum (B 6, 23-25 Bauteil A)                                                                |
@@ -309,8 +309,7 @@ Mandatory Readings:
 
 Further Readings:
 
--   Public opinion on climate change: Is there an economy--environment
-    tradeoff?
+-   Mildenberger, M., & Leiserowitz, A. (2017). Public opinion on climate change: Is there an economy–environment tradeoff?. Environmental Politics, 26(5), 801-824.?
 
 ::: {.callout-note icon="false" appearance="simple"}
 **5. Natural Disasters, Climate Attitudes and Voting Behaviour (March

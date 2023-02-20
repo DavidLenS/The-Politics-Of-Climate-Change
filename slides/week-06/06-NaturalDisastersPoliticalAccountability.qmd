@@ -1,0 +1,18 @@
+---
+title: "Natural Disasters and Political Accountability"
+subtitle: "Week6"
+author: "David Schweizer"
+date: "March 28, 2023"
+date-format: long
+institute: "University of Mannheim"
+format: 
+  revealjs:
+    theme: serif
+    slide-number: c/t #< collapsed/total
+    footer: "The Politics of Climate Change | Spring 2023 | University of Mannheim"
+editor: visual
+---
+
+# Update
+
+-   Slides will be uploaded on the day of the seminar.
