@@ -31,7 +31,7 @@ editor: visual
 
 -   Outlook next week
 
-## Dataquest 
+## Dataquest
 
 -   Free access to premium team account until 01.08.2023
 
@@ -157,7 +157,3 @@ countdown(minutes = 30, seconds = 00,
     -   Breetz, H., Mildenberger, M., & Stokes, L. (2018)
 
 -   We will expand our case studies: What are possible solutions? How can we achieve them?
-
-
-
-
