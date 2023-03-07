@@ -152,7 +152,7 @@ countdown(minutes = 45, seconds = 00,
 
 ## (Until) Next Week
 
--   BLOCK II - Political Behaviour (1): Public Opinion on Climate Change. As alwayAdd comments, discussion questions, etc. for the mandatory readings. Try Perusall:
+-   BLOCK II - Political Behaviour (1): Public Opinion on Climate Change. Add comments, discussion questions, etc. for the mandatory readings. Try Perusall:
 
     -   Bush, S. S., & Clayton, A. (2022). Facing change: Gender and climate change attitudes worldwide. American Political Science Review, 1-18.
 
